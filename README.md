@@ -1,2 +1,2 @@
-# Recipest
-Odin project
+# odin-recipes
+Odin recipe project
